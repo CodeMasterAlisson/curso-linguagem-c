@@ -19,8 +19,10 @@ Introdução
    - inteiro
    - float
    - char
+   - shor int
  - Leitura de char usando:
    - getchar()
    - getc()
    - fgetc()
  - Conhecendo e corrigindo buffer de teclado
+ - Tamanho em memória de cada tipo - oprador sizeof
