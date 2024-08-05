@@ -19,7 +19,7 @@ Introdução
    - inteiro
    - float
    - char
-   - shor int
+   - short int
  - Leitura de char usando:
    - getchar()
    - getc()
