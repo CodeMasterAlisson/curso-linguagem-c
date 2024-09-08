@@ -21,7 +21,7 @@ int main()
 	short int xx = 32767;
 	printf("Valor de x: %d\n", xx);
 	xx++;
-	printf("Valor de x: %hi\n", xx); // estoruro de memoria
+	printf("Valor de x: %hi\n", xx); // estouro de memória
 	return 0;
 }
 
