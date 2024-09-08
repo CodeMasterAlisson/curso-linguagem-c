@@ -15,7 +15,13 @@ int main()
 	printf("Tamanho em memoria de short int: %hi bytes\n", sizeof si);
 	
 	// 4 bytes em memória e cada byte tem 8 bits, então um inteiro tem 32bits de endereçamento
+	// short int ocupa a metade do int, ou seja, 16bits de endereçamento 
 	
+	int y = 0;
+	short int xx = 32767;
+	printf("Valor de x: %d\n", xx);
+	xx++;
+	printf("Valor de x: %hi\n", xx); // estoruro de memoria
 	return 0;
 }
 
