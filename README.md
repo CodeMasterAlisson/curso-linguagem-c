@@ -16,14 +16,18 @@ Introdução
  - Conhecendo libs padrões
    - stdio.h para input e output
  - Conhecendo tipos de dados
-   - inteiro
-   - float
-   - char
-   - short int
-   - long int
+   - inteiro 4 bystes de memoria
+   - float 4 byste de memoria
+   - char 1 byste de mememoria
+   - short int 2 byste de memoria
+   - short 2 byste de memoria
+   - long int 8 bytes de memoria
+   - long 8 bytes de memoria
+   - double 8 bytes de memoria
  - Leitura de char usando:
    - getchar()
    - getc()
    - fgetc()
  - Conhecendo e corrigindo buffer de teclado
  - Tamanho em memória de cada tipo - oprador sizeof
+ - __mingw_printf() para corrigir impressoa de numero grande no windows
