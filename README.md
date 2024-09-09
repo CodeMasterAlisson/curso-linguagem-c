@@ -16,11 +16,11 @@ Introdução
  - Conhecendo libs padrões
    - stdio.h para input e output
  - Conhecendo tipos de dados
-   - inteiro 4 bystes de memoria
-   - float 4 byste de memoria
-   - char 1 byste de mememoria
-   - short int 2 byste de memoria
-   - short 2 byste de memoria
+   - inteiro 4 bytes de memoria
+   - float 4 byte de memoria
+   - char 1 byte de mememoria
+   - short int 2 byte de memoria
+   - short 2 byte de memoria
    - long int 8 bytes de memoria
    - long 8 bytes de memoria
    - double 8 bytes de memoria
