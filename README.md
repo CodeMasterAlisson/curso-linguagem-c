@@ -20,6 +20,7 @@ Introdução
    - float
    - char
    - short int
+   - long int
  - Leitura de char usando:
    - getchar()
    - getc()
