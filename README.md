@@ -31,3 +31,5 @@ Introdução
  - Conhecendo e corrigindo buffer de teclado
  - Tamanho em memória de cada tipo - oprador sizeof
  - __mingw_printf() para corrigir impressão de numero grande com casas decimais no windows
+ - caracters de escape
+ - operações basicas
