@@ -41,4 +41,6 @@ Introdução
  - tabela ascii e acentuacão - setlocale
 =======
  - tabela ascii e acentuacão - setlocale
+ - Operadores relacionais
+ - Condição simples - IF
 >>>>>>> 7ddd59ce5540653122e9d017278c4e96fe13db0a
