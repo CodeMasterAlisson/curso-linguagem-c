@@ -33,3 +33,8 @@ Introdução
  - __mingw_printf() para corrigir impressão de numero grande com casas decimais no windows
  - caracters de escape
  - operações basicas
+ - Operação de conversão - Casting (Tipo) Variável
+ - Operador de resto da divisão %
+ - Operador de incremento, decremento, pré e pos
+ - Operador de unsigned para tirar os negativos
+ - tabela ascii e acentuacão - setlocale
