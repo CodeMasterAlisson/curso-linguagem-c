@@ -37,4 +37,8 @@ Introdução
  - Operador de resto da divisão %
  - Operador de incremento, decremento, pré e pos
  - Operador de unsigned para tirar os negativos
+<<<<<<< HEAD
  - tabela ascii e acentuacão - setlocale
+=======
+ - tabela ascii e acentuacão - setlocale
+>>>>>>> 7ddd59ce5540653122e9d017278c4e96fe13db0a
